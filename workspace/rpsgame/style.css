@@ -1,0 +1,65 @@
+* {
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "sans";
+}
+
+@font-face {
+    font-family: 'sans';
+    src: url('font/sans.ttf');
+
+}
+
+body {
+    overflow: hidden;
+    background: #19172e;
+    color: #fff;
+    text-align: center;
+    min-height: 100vh;
+}
+
+img {
+    border: 10px solid transparent;
+    margin: 40px;
+    border-radius: 50%;
+    transition: all 0.2s;
+}
+
+img:hover {
+    border: 10px solid #929292;
+    cursor: pointer;
+}
+
+#message {
+    text-align: center;
+    font-style: 32px;
+    color: #fff;
+}
+
+.container {
+    max-width: 800px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: row;
+    margin: 30px auto 30px;
+    padding: 10px;
+}
+
+@media screen and (max-width:600px) {
+    img {
+        margin: -5px;
+    }
+}
+
+footer,
+a {
+    color: #fff;
+}
+
+footer {
+    text-align: center;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+}
