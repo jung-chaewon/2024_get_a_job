@@ -1,0 +1,164 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+@font-face {
+    font-family: "sans";
+    src: url(font/sans.ttf);
+}
+
+body {
+    color: black;
+    font-family: "sans";
+    height: 100vh;
+    background-image: url('Clear1.jpg');
+    background-repeat: no-repeat;
+    background-position: top-center;
+    background-size: cover;
+    text-align: center;
+}
+
+.hedd {
+    font-size: 50px;
+    font-family: "sans";
+    margin-top: 3px;
+}
+
+h1 {
+    position: absolute;
+    text-align: center;
+    top: 0;
+    left: 0;
+    right: 0;
+    padding-top: 20px;
+    font-family: "sans";
+}
+
+.modal {
+    position: absolute;
+    text-align: center;
+    top: 0;
+    left: 0;
+    right: 0;
+    padding-top: 70px;
+    display: none;
+}
+
+.container {
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.weather {
+    display: flex;
+    flex-direction: row;
+    margin: 5px 0;
+    font-style: 1.5rem;
+    text-align: center;
+}
+
+#location {
+    font-style: 3rem;
+    font-weight: 800;
+}
+
+.desc {
+    font-style: 1.25rem;
+    text-transform: capitalize;
+}
+
+@media only screen and(max-width: 768px) {
+    .modal {
+        display: block;
+    }
+}
+
+.app-main {
+    min-width: 30vh;
+    width: 50vw;
+    margin: 10px auto;
+    background-color: rgba(255, 255, 255, 0.50);
+    padding: 20px;
+}
+
+.app-main {
+    margin-bottom: 20px;
+}
+
+.input-box {
+    width: 100%;
+    background-color: rgba(255, 255, 255, 0.50);
+    border: none;
+    outline: none;
+    color: #582233;
+    font-style: 25px;
+    height: 50px;
+    border-radius: 5px;
+    padding: 0 10px;
+    text-align: center;
+}
+
+.input-box:focus {
+    background-color: rgba(255, 255, 255, 0.50);
+}
+
+.weather-body {
+    display: none;
+    color: #582233;
+    padding: 10px;
+    line-height: 2rem;
+    border-radius: 10px;
+    background-color: rgba(255, 255, 255, 0.50);
+    text-align: center;
+}
+
+.location {
+    font-weight: bold;
+}
+
+.weather-status {
+    padding: 10px;
+    align-items: center;
+    text-align: center;
+}
+
+.temp {
+    font-style: 50pt;
+    font-weight: 700;
+    margin: 20px 0;
+    text-shadow: 2px 4px rgba(0, 0, 0, 0);
+    text-align: center;
+}
+
+.min-max,
+.weather {
+    font-style: 12pt;
+    font-weight: 600;
+    justify-content: center;
+}
+
+.weather {
+    font-style: 12pt;
+    font-weight: 600;
+    justify-content: center;
+}
+
+.heeding {
+    width: 100%;
+    text-align: center;
+    padding-top: 45px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: 200%;
+    font-weight: bold;
+    font-style: italic;
+    text-align: center;
+}
+
+#myChart {
+    display: none;
+}
