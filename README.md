@@ -38,4 +38,5 @@
 [37. Lorem lpsum generate](https://github.com/jung-chaewon/Lorem-Ipsum-Generate)<br><br>
 [38. RPS game](https://github.com/jung-chaewon/RPS-game)<br><br>
 [39. snake game](https://github.com/jung-chaewon/snake-game)<br><br>
+[40. age calc](https://github.com/jung-chaewon/2024_get_a_job/tree/main/workspace/Age%20Calculator)<br><br>
 
