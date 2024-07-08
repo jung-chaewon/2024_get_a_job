@@ -40,3 +40,4 @@
 [39. snake game](https://github.com/jung-chaewon/snake-game)<br><br>
 [40. age calc](https://github.com/jung-chaewon/2024_get_a_job/tree/main/workspace/Age%20Calculator)<br><br>
 [41. Gradient Generator](https://github.com/jung-chaewon/2024_get_a_job/tree/main/workspace/Gradient%20Generator)<br><br>
+[42. Generate Array ✨](https://github.com/jung-chaewon/2024_get_a_job/tree/main/workspace/Sorting%20Visualizer)<br><br>
