@@ -1,4 +1,5 @@
-# 2024_get_a_job 
+
+## javascript
 [1. drum kit](https://github.com/jung-chaewon/drum)<br><br>
 [2. clock](https://github.com/jung-chaewon/clock)<br><br>
 [3. Random Color Generator](https://github.com/jung-chaewon/random-color)<br><br>
@@ -41,3 +42,9 @@
 [40. age calc](https://github.com/jung-chaewon/2024_get_a_job/tree/main/workspace/Age%20Calculator)<br><br>
 [41. Gradient Generator](https://github.com/jung-chaewon/2024_get_a_job/tree/main/workspace/Gradient%20Generator)<br><br>
 [42. Generate Array ✨](https://github.com/jung-chaewon/2024_get_a_job/tree/main/workspace/Sorting%20Visualizer)<br><br>
+
+
+## css
+
+[1. ryan](https://github.com/jung-chaewon/2024_get_a_job/tree/main/css/ryan)<br><br>
+[2. icecream](https://github.com/jung-chaewon/2024_get_a_job/tree/main/css/icecream)<br><br>
