@@ -48,3 +48,5 @@
 
 [1. ryan](https://github.com/jung-chaewon/2024_get_a_job/tree/main/css/ryan)<br><br>
 [2. icecream](https://github.com/jung-chaewon/2024_get_a_job/tree/main/css/icecream)<br><br>
+[3. fan](https://github.com/jung-chaewon/2024_get_a_job/tree/main/css/fan)<br><br>
+[4. ghost](https://github.com/jung-chaewon/2024_get_a_job/tree/main/css/ghost)<br><br>
