@@ -51,3 +51,5 @@
 [2. icecream](https://github.com/jung-chaewon/2024_get_a_job/tree/main/css/icecream)<br><br>
 [3. fan](https://github.com/jung-chaewon/2024_get_a_job/tree/main/css/fan)<br><br>
 [4. ghost](https://github.com/jung-chaewon/2024_get_a_job/tree/main/css/ghost)<br><br>
+[5. plant](https://github.com/jung-chaewon/2024_get_a_job/tree/main/css/plant)<br><br>
+[6. captain america shield](https://github.com/jung-chaewon/2024_get_a_job/tree/main/css/CA)<br><br>
