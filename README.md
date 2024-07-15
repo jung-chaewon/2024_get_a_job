@@ -53,3 +53,5 @@
 [4. ghost](https://github.com/jung-chaewon/2024_get_a_job/tree/main/css/ghost)<br><br>
 [5. plant](https://github.com/jung-chaewon/2024_get_a_job/tree/main/css/plant)<br><br>
 [6. captain america shield](https://github.com/jung-chaewon/2024_get_a_job/tree/main/css/CA)<br><br>
+[7. emoji](https://github.com/jung-chaewon/2024_get_a_job/tree/main/css/emoji)<br><br>
+[8. apple](https://github.com/jung-chaewon/2024_get_a_job/tree/main/css/apple)<br><br>
