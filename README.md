@@ -44,6 +44,8 @@
 [42. Generate Array ✨](https://github.com/jung-chaewon/2024_get_a_job/tree/main/workspace/Sorting%20Visualizer)<br><br>
 [43. block runner](https://github.com/jung-chaewon/2024_get_a_job/tree/main/workspace/Block%20Runner)<br><br>
 [44. note Taking](https://github.com/jung-chaewon/2024_get_a_job/tree/main/workspace/notesTaking)<br><br>
+[45. typing platform](https://github.com/jung-chaewon/2024_get_a_job/tree/main/workspace/Typing%20Platform)<br><br>
+[46. Navigation bar](https://github.com/jung-chaewon/2024_get_a_job/tree/main/workspace/navgationbar)<br><br>
 
 ## css
 
@@ -55,3 +57,6 @@
 [6. captain america shield](https://github.com/jung-chaewon/2024_get_a_job/tree/main/css/CA)<br><br>
 [7. emoji](https://github.com/jung-chaewon/2024_get_a_job/tree/main/css/emoji)<br><br>
 [8. apple](https://github.com/jung-chaewon/2024_get_a_job/tree/main/css/apple)<br><br>
+[9. car](https://github.com/jung-chaewon/2024_get_a_job/tree/main/css/car)<br><br>
+[10. bear](https://github.com/jung-chaewon/2024_get_a_job/tree/main/css/bear)<br><br>
+
