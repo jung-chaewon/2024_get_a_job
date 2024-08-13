@@ -46,7 +46,8 @@
 [44. note Taking](https://github.com/jung-chaewon/2024_get_a_job/tree/main/workspace/notesTaking)<br><br>
 [45. typing platform](https://github.com/jung-chaewon/2024_get_a_job/tree/main/workspace/Typing%20Platform)<br><br>
 [46. Navigation bar](https://github.com/jung-chaewon/2024_get_a_job/tree/main/workspace/navgationbar)<br><br>
-
+[47.  movie App](https://github.com/jung-chaewon/2024_get_a_job/tree/main/workspace/movieApp)<br><br>
+[48.  Quiz App](https://github.com/jung-chaewon/2024_get_a_job/tree/main/workspace/quizApp)<br><br>
 ## css
 
 [1. ryan](https://github.com/jung-chaewon/2024_get_a_job/tree/main/css/ryan)<br><br>
